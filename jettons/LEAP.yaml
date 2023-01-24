@@ -1,0 +1,10 @@
+name: Wakeful
+description: "This is a universal token for use in all areas of the decentralized Internet in the TON blockchain, web3, Telegram channels, TON sites, Tonkeeper. Issue of 694.2 billion coins. Telegram channel: @wakefulness_app, www.wakefulness.ton" 
+image: "https://raw.githubusercontent.com/devdfan/wakefulness/main/public/wake.jpeg"
+address: "0:b931b333f04278a23f657c6a82e4d26c422b1f8345ae17eff15f027f15b67102" 
+symbol: LEAP 
+max_supply: 694200000000 
+websites:
+  - "https://wakefulness.ton"
+social:  
+  - "https://t.me/wakefulness_app" 
